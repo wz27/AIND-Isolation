@@ -3,6 +3,10 @@
 
 ![Example game of isolation](viz.gif)
 
+## Project Introduction
+
+In this project, I wrote code to develop an AI agent to play "Isolation". To do so, I implemented minimax search with alpha-beta pruning and iterative deepening sesarch, as well as 3 different position evaluation heuristics. Below are the project instructions.
+
 ## Synopsis
 
 In this project, students will develop an adversarial search agent to play the game "Isolation".  Isolation is a deterministic, two-player game of perfect information in which the players alternate turns moving a single piece from one cell to another on a board.  Whenever either player occupies a cell, that cell becomes blocked for the remainder of the game.  The first player with no remaining legal moves loses, and the opponent is declared the winner.  These rules are implemented in the `isolation.Board` class provided in the repository. 
