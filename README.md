@@ -5,7 +5,10 @@
 
 ## Project Introduction
 
-In this project, I wrote code to develop an AI agent to play "Isolation". To do so, I implemented minimax search with alpha-beta pruning and iterative deepening sesarch, as well as 3 different position evaluation heuristics. Below are the project instructions.
+In this project, I wrote code to develop an AI agent to play "Isolation". To do so, I implemented minimax search with alpha-beta pruning and iterative deepening sesarch, as well as 3 different position evaluation heuristics. 
+A research review and an analysis of the heuristics implemented are available in .pdf.
+
+Below are the project instructions. 
 
 ## Synopsis
 
