@@ -5,8 +5,11 @@
 
 ## Project Introduction
 
-In this project, I wrote code to develop an AI agent to play "Isolation". To do so, I implemented minimax search with alpha-beta pruning and iterative deepening sesarch, as well as 3 different position evaluation heuristics. 
-A research review and an analysis of the heuristics implemented are available in .pdf.
+In this project, I wrote code to develop an AI agent to play "Isolation". To do so, I implemented minimax search with alpha-beta pruning and iterative deepening sesarch, as well as 3 different position evaluation heuristics.
+
+A research review of the paper Deep Blue by the IBM Watson Team including a summary of the techniques introduced is available under research_review.pdf.
+
+An analysis of the heuristics implemented, including a comparison of the different heuristics, as well as my reasoning for the heuristic chosen to be used in the submitted agent, is available under heuristic_analysis.pdf.
 
 Below are the project instructions. 
 
